@@ -2,4 +2,4 @@
 
 This project contains a Jupyter notebook to demonstrate Evidently.
 
-VERSION: g2073ffe
+VERSION: g611bd3e
